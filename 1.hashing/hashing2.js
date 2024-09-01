@@ -1,3 +1,5 @@
+// You will have to brute force until you find a value that starts with 00000
+
 const crypto = require("crypto");
 
 const findWithPrefix = (prefix) => {
